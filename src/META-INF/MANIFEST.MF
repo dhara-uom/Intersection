@@ -1,0 +1,69 @@
+Manifest-Version: 1.0
+Class-Path: xbean.jar jdom-1.0.jar jts-1.13.jar wps-1.0.0.jar xsd-2.6.
+ 0.jar gt-api-9.2.jar gt-cql-9.2.jar gt-csv-9.2.jar gt-sfs-9.2.jar gt-
+ svg-9.2.jar gt-swt-9.2.jar gt-vpf-9.2.jar gt-wfs-9.2.jar gt-wms-9.2.j
+ ar gt-wps-9.2.jar gt-xml-9.2.jar h2-1.1.119.jar ecore-2.6.1.jar gt-da
+ ta-9.2.jar gt-grid-9.2.jar gt-jdbc-9.2.jar gt-jp2k-9.2.jar gt-main-9.
+ 2.jar icu4j-3.4.4.jar javacsv-2.0.jar jaxen-1.1.4.jar common-2.6.0.ja
+ r gt-graph-9.2.jar gt-image-9.2.jar gt-swing-9.2.jar log4j-1.2.15.jar
+  ehcache-1.6.2.jar geodb-0.7-RC2.jar gt-arcsde-9.2.jar gt-brewer-9.2.
+ jar gt-charts-9.2.jar gt-render-9.2.jar vecmath-1.3.2.jar commons-io-
+ 2.1.jar gt-arcgrid-9.2.jar gt-complex-9.2.jar gt-geojson-9.2.jar gt-g
+ eotiff-9.2.jar gt-gtopo30-9.2.jar gt-jdbc-h2-9.2.jar gt-mongodb-9.2.j
+ ar gt-opengis-9.2.jar gt-process-9.2.jar gt-xsd-csw-9.2.jar gt-xsd-fe
+ s-9.2.jar gt-xsd-kml-9.2.jar gt-xsd-ows-9.2.jar gt-xsd-sld-9.2.jar gt
+ -xsd-wcs-9.2.jar gt-xsd-wfs-9.2.jar gt-xsd-wms-9.2.jar gt-xsd-wps-9.2
+ .jar hsqldb-1.8.0.7.jar jai_core-1.1.3.jar jgridshift-1.0.jar jt-util
+ s-1.3.0.jar gt-coverage-9.2.jar gt-epsg-wkt-9.2.jar gt-geometry-9.2.j
+ ar gt-jdbc-db2-9.2.jar gt-mark-wkt-9.2.jar gt-matfile5-9.2.jar gt-met
+ adata-9.2.jar gt-property-9.2.jar gt-xsd-core-9.2.jar gt-xsd-gml2-9.2
+ .jar gt-xsd-gml3-9.2.jar jai_codec-1.1.3.jar jai_imageio-1.1.jar json
+ -simple-1.1.jar stax2-api-3.1.1.jar xpp3_min-1.1.4c.jar axiom-api-1.2
+ .14.jar commons-dbcp-1.3.jar commons-lang-2.3.jar gt-epsg-hsql-9.2.ja
+ r gt-shapefile-9.2.jar gt-transform-9.2.jar jt-contour-1.3.0.jar org.
+ w3.xlink-9.2.jar xercesImpl-2.7.1.jar axiom-impl-1.2.14.jar commons-c
+ odec-1.2.jar gt-app-schema-9.2.jar gt-jdbc-mysql-9.2.jar gt-validatio
+ n-9.2.jar gt-xsd-filter-9.2.jar jsqlparser-0.3.14.jar picocontainer-1
+ .2.jar wps-1.0.0-sources.jar commons-jxpath-1.3.jar commons-pool-1.5.
+ 4.jar gt-epsg-oracle-9.2.jar gt-grassraster-9.2.jar gt-imagemosaic-9.
+ 2.jar gt-jdbc-oracle-9.2.jar gt-jts-wrapper-9.2.jar gt-property-ng-9.
+ 2.jar gt-referencing-9.2.jar gt-sample-data-9.2.jar jsr-275-1.0-beta-
+ 2.jar jt-vectorize-1.3.0.jar filter-1.0-SNAPSHOT.jar gt-imagepyramid-
+ 9.2.jar gt-jdbc-postgis-9.2.jar gt-shapefile-ng-9.2.jar jt-zonalstats
+ -1.3.0.jar miglayout-3.7-swing.jar net.opengis.csw-9.2.jar net.opengi
+ s.fes-9.2.jar net.opengis.ows-9.2.jar net.opengis.wcs-9.2.jar net.ope
+ ngis.wfs-9.2.jar net.opengis.wps-9.2.jar batik-transcoder-1.7.jar com
+ mons-digester-1.7.jar gt-arcsde-common-9.2.jar gt-complex-9.2-tests.j
+ ar gt-coveragetools-9.2.jar gt-jdbc-teradata-9.2.jar gt-referencing3D
+ -9.2.jar jt-rangelookup-1.3.0.jar commons-logging-1.1.1.jar gt-epsg-e
+ xtension-9.2.jar gt-jdbc-sqlserver-9.2.jar gt-process-raster-9.2.jar 
+ mongo-java-driver-2.5.jar xml-apis-xerces-2.7.1.jar commons-httpclien
+ t-3.1.jar gt-epsg-postgresql-9.2.jar gt-jdbc-spatialite-9.2.jar gt-pr
+ ocess-feature-9.2.jar imageio-ext-tiff-1.1.7.jar commons-beanutils-1.
+ 7.0.jar commons-collections-3.1.jar eastwood-1.1.1-20090908.jar gt-im
+ ageio-ext-gdal-9.2.jar gt-imagemosaic-jdbc-9.2.jar gt-process-geometr
+ y-9.2.jar jt-vectorbinarize-1.3.0.jar woodstox-core-asl-4.1.4.jar apa
+ che-mime4j-core-0.7.2.jar commons-cli-2.0-gt2-pre1.jar gt-feature-agg
+ regate-9.2.jar imageio-ext-kakadu-1.1.7.jar postgresql-8.4-701.jdbc3.
+ jar xml-commons-resolver-1.2.jar 52n-wps-io-3.2.0-SNAPSHOT.jar gt-sam
+ ple-data-access-9.2.jar gt-shapefile-renderer-9.2.jar imageio-ext-arc
+ grid-1.1.7.jar imageio-ext-gdalecw-1.1.7.jar imageio-ext-streams-1.1.
+ 7.jar gt-app-schema-resolver-9.2.jar imageio-ext-gdaldted-1.1.7.jar i
+ mageio-ext-gdalehdr-1.1.7.jar imageio-ext-gdalnitf-1.1.7.jar jface-3.
+ 6.1.M20100825-0800.jar imageio-ext-gdalmrsid-1.1.7.jar imageio-ext-ut
+ ilities-1.1.7.jar mysql-connector-java-5.1.17.jar core.runtime-3.6.0.
+ v20100505.jar imageio-ext-gdalecwjp2-1.1.7.jar imageio-ext-gdalidrisi
+ -1.1.7.jar imageio-ext-gdalrpftoc-1.1.7.jar gt-feature-pregeneralized
+ -9.2.jar imageio-ext-gdalenvihdr-1.1.7.jar imageio-ext-imagereadmt-1.
+ 1.7.jar 52n-wps-commons-3.2.0-SNAPSHOT.jar 52n-wps-io-impl-3.2.0-SNAP
+ SHOT.jar equinox.common-3.6.0.v20100503.jar imageio-ext-gdalerdasimg-
+ 1.1.7.jar imageio-ext-gdalmrsidjp2-1.1.7.jar imageio-ext-mat-sas-1.1M
+ 012010.jar swt.gtk.linux.x86-3.6.1.v3655c.jar imageio-ext-gdalkakaduj
+ p2-1.1.7.jar geronimo-activation_1.1_spec-1.1.jar geronimo-javamail_1
+ .4_spec-1.7.1.jar geronimo-stax-api_1.0_spec-1.0.1.jar sqlite-jdbc-sp
+ atialite-3.7.2-2.4.jar 52n-wps-client-lib-3.2.0-SNAPSHOT.jar ui.workb
+ ench-3.6.1.M20100826-1330.jar core.commands-3.6.0.I20100512-1500.jar 
+ imageio-ext-imagereadmt-1.1M012010.jar imageio-ext-gdalarcbinarygrid-
+ 1.1.7.jar swt.win32.win32.x86_64-3.6.1.v3655c.jar
+Main-Class: pckg.IntersectTest
+
